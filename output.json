@@ -1,0 +1,140 @@
+{
+    "0": {
+        "resortKey": {},
+        "name": "Telluride",
+        "dailySnow": "0",
+        "lastThreeSnow": "6"
+    },
+    "1": {
+        "resortKey": {},
+        "name": "Beaver Creek",
+        "dailySnow": "0",
+        "lastThreeSnow": "4"
+    },
+    "2": {
+        "resortKey": {},
+        "name": "Breckenridge",
+        "dailySnow": "0",
+        "lastThreeSnow": "4"
+    },
+    "3": {
+        "resortKey": {},
+        "name": "Aspen / Snowmass",
+        "dailySnow": "0",
+        "lastThreeSnow": "3"
+    },
+    "4": {
+        "resortKey": {},
+        "name": "Keystone",
+        "dailySnow": "0",
+        "lastThreeSnow": "3"
+    },
+    "5": {
+        "resortKey": {},
+        "name": "Cooper",
+        "dailySnow": "0",
+        "lastThreeSnow": "3"
+    },
+    "6": {
+        "resortKey": {},
+        "name": "Copper Mountain Resort",
+        "dailySnow": "0",
+        "lastThreeSnow": "2"
+    },
+    "7": {
+        "resortKey": {},
+        "name": "Loveland",
+        "dailySnow": "0",
+        "lastThreeSnow": "2"
+    },
+    "8": {
+        "resortKey": {},
+        "name": "Monarch Mountain",
+        "dailySnow": "0",
+        "lastThreeSnow": "2"
+    },
+    "9": {
+        "resortKey": {},
+        "name": "Purgatory",
+        "dailySnow": "0",
+        "lastThreeSnow": "2"
+    },
+    "10": {
+        "resortKey": {},
+        "name": "Vail",
+        "dailySnow": "0",
+        "lastThreeSnow": "2"
+    },
+    "11": {
+        "resortKey": {},
+        "name": "Winter Park Resort",
+        "dailySnow": "0",
+        "lastThreeSnow": "2"
+    },
+    "12": {
+        "resortKey": {},
+        "name": "Silverton Mountain",
+        "dailySnow": "0",
+        "lastThreeSnow": "2"
+    },
+    "13": {
+        "resortKey": {},
+        "name": "Arapahoe Basin Ski Area",
+        "dailySnow": "0",
+        "lastThreeSnow": "1"
+    },
+    "14": {
+        "resortKey": {},
+        "name": "Crested Butte Mountain Resort",
+        "dailySnow": "0",
+        "lastThreeSnow": "1"
+    },
+    "15": {
+        "resortKey": {},
+        "name": "Eldora Mountain Resort",
+        "dailySnow": "0",
+        "lastThreeSnow": "1"
+    },
+    "16": {
+        "resortKey": {},
+        "name": "Steamboat",
+        "dailySnow": "0",
+        "lastThreeSnow": "1"
+    },
+    "17": {
+        "resortKey": {},
+        "name": "Howelsen Hill",
+        "dailySnow": "0",
+        "lastThreeSnow": "0"
+    },
+    "18": {
+        "resortKey": {},
+        "name": "Powderhorn",
+        "dailySnow": "0",
+        "lastThreeSnow": "0"
+    },
+    "19": {
+        "resortKey": {},
+        "name": "Ski Granby Ranch",
+        "dailySnow": "0",
+        "lastThreeSnow": "0"
+    },
+    "20": {
+        "resortKey": {},
+        "name": "Sunlight Mountain Resort",
+        "dailySnow": "0",
+        "lastThreeSnow": "0"
+    },
+    "21": {
+        "resortKey": {},
+        "name": "Wolf Creek Ski Area",
+        "dailySnow": "0",
+        "lastThreeSnow": "0"
+    },
+    "22": {
+        "resortKey": {},
+        "name": "Echo Mountain",
+        "dailySnow": "0",
+        "lastThreeSnow": "0"
+    }
+}
